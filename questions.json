@@ -1,0 +1,533 @@
+[
+   {
+      "question":"Which episode number is the first Star Wars film?",
+      "category":"Star Wars",
+      "answer":"IV",
+      "choices":[
+         "I",
+         "V",
+		 "IV",
+		 "VI"
+      ]
+   },
+   {
+      "question":"What was Han Solo frozen in?",
+      "category":"Star Wars",
+      "answer":"Carbonite",
+      "choices":[
+         "Ice",
+         "Water Ice",
+         "Nitrogen liquid",
+         "Carbonite"
+      ]
+   },
+   {
+      "question":"And for how long was he frozen?",
+      "category":"Star Wars",
+      "answer":"About one year",
+      "choices":[
+         "About one year",
+         "Four year",
+         "Three",
+         "One Year"
+      ]
+   },
+   {
+      "question":"How many forms of communication is C-3P0 fluent in?",
+      "category":"Star Wars",
+      "answer":"Over 6 million",
+      "choices":[
+		 "Over 2 million",
+		 "3 million",
+         "Over 6 million",
+         "Over 10 Billion"
+      ]
+   },
+   {
+      "question":"Where does Rey find Luke Skywalker?",
+      "category":"Star Wars",
+      "answer":"Ahch-To",
+      "choices":[
+         "Batuu",
+         "Bogano",
+         "Ahch-To",
+         "Jakku"
+      ]
+   },
+   {
+      "question":"Who killed Mace Windu?",
+      "category":"Star Wars",
+      "answer":"Darth Sidious",
+      "choices":[
+         "Darth Vader",
+         "Darth Plagueis",
+         "Darth Sidious",
+         "Darth Maul"
+      ]
+   },
+   {
+      "question":"What is the name of Anakin's stepbrother?",
+      "category":"Star Wars",
+      "answer":"Owen Lars",
+      "choices":[
+         "Shmi Skywalker",
+         "Owen Lars",
+         "Luke Skywalker",
+         "Leia Organa"
+      ]
+   },
+   {
+      "question":"Who was Boba Fett's father?",
+      "category":"Star Wars",
+      "answer":"Jango Fett",
+      "choices":[
+         "Din Djarin",
+         "Cade Bane",
+         "Hondo Ohnaka",
+         "Jango Fett"
+      ]
+   },
+   {
+      "What was Galen Erso's nickname for his daughter?",
+      "category":"Satr Wars",
+      "answer":"Stardust",
+      "choices":[
+         "Stardust",
+         "Little Star",
+         "Jyn",
+         "Shine Star"
+      ]
+   },
+   {
+      "question":"What is the name of the female member of the Jedi High Council who is of the same species as Yoda?",
+      "category":"Satr Wars",
+      "answer":"Yaddle",
+      "choices":[
+         "Oola",
+         "Shaak-Ti",
+         "Asajj Ventress",
+         "Yaddle"
+      ]
+   },
+   {
+      "question":"What model of aircraft did Luke use to bullseye Womp Rats ?",
+      "category":"Star Wars",
+      "answer":"T-16 skyhopper",
+      "choices":[
+         "P-47",
+         "T-16 skyhopper",
+         "X-Wing",
+         "T-26 skyhopper"
+      ]
+   },
+   {
+      "question":"Han Solo boasted that the Millennium Falcon made the Kessel Run in less than how many parsecs?",
+      "category":"Star Wars",
+      "answer":"12 parsecs",
+      "choices":[
+         "12 parsecs",
+         "20 parsecs",
+         "30 parsecs",
+         "50 parsecs"
+      ]
+   },
+   {
+      "question":"Who was the first character to speak in the first Star Wars film, A New Hope?",
+      "category":"Star Wars",
+      "answer":"C-3PO",
+      "choices":[
+         "Darth Vader",
+         "Moff Tarkin",
+         "Leia Organa",
+         "C-3PO"
+      ]
+   },
+   {
+      "question":"Princess Leia tells Grand Moff Tarkin the rebel base is located on what planet?",
+      "category":"Star Wars",
+      "answer":"Dantooine",
+      "choices":[
+         "Tatooine",
+         "Alderaan",
+         "Dantooine",
+         "Hoth"
+      ]
+   },
+   {
+      "question":"Who was Luke Skywalker's gunner during the Battle of Hoth?",
+      "category":"Star Wars",
+      "answer":"Dak Ralter",
+      "choices":[
+         "Carson Teva",
+         "Dak Ralter",
+         "Trapper Wolf",
+         "Jib Dodger"
+      ]
+   },
+   {
+      "question":"What species is Greedo?",
+      "category":"Star Wars",
+      "answer":"Rodian",
+      "choices":[
+         "Gungans",
+         "Rodian",
+         "Zeltrons",
+         "Ewoks"
+      ]
+   },
+   {
+      "question":"In which movie did Yoda NOT appear?",
+      "category":"Star Wars",
+      "answer":"A New Hope",
+      "choices":[
+         "The Empire Strikes Back",
+         "Return of the Jedi",
+         "A New Hope",
+         "The Phantom Menace"
+      ]
+   },
+   {
+      "question":"In what system are Han and Leia before traveling to Bespin?",
+      "category":"Star Wars",
+      "answer":"Anoat",
+      "choices":[
+         "Bakura",
+         "Corellian",
+         "Dagobah",
+         "Anoat"
+      ]
+   },
+   {
+      "question":"What species is native to Endor?",
+      "category":"Star Wars",
+      "answer":"Ewok",
+      "choices":[
+         "Wookies",
+         "Ewok",
+         "Gungans",
+         "Rodians"
+      ]
+   },
+   {
+      "question":"Which actor is the only one who's appeared in every single Star Wars movie to date?",
+      "category":"Star Wars",
+      "answer":"Anthony Daniels",
+      "choices":[
+         "Mark Hamill",
+         "Harrison Ford",
+         "Anthony Daniels",
+         "Ewan McGregor"
+      ]
+   },
+   {
+      "question":"Which stormtrooper wasn't able to complete his mission in Star Wars: The Force Awakens?",
+      "category":"Star Wars",
+      "answer":"FN-2187",
+      "choices":[
+         "FN-8721",
+         "FN-1278",
+         "FN-2187",
+         "FN-7812"
+      ]
+   },
+   {
+      "question":"What were Padmé's last words?",
+      "category":"Star Wars",
+      "answer":"Obi-Wan...there...is good in him. I know there is.",
+      "choices":[
+         "Obi-Wan...there...is good in him. I know there is.",
+         "Obi-Wan...please take care of them"
+      ]
+   },
+   {
+      "question":"What kind of vehicle did Rey live in?",
+      "category":"Star Wars",
+      "answer":"AT-AT",
+      "choices":[
+         "TIE fighter",
+         "Imperial star destroyer",
+         "AT-AT",
+         "AT-ST"
+      ]
+   },
+   {
+      "question":"According to Master Yoda, how many Sith are always out there?",
+      "category":"Star Wars",
+      "answer":"Two",
+      "choices":[
+         "Two",
+         "Three",
+         "Four",
+         "One"
+      ]
+   },
+   {
+      "question":"What happened to Anakin Skywalker during the first battle with Count Dooku?",
+      "category":"Star Wars",
+      "answer":"He lost his right arm",
+      "choices":[
+         "He kill Count Dooku",
+         "He lost a leg",
+         "He lost his right arm"         
+      ]
+   },
+   {
+      "question":"Who played the part of Commander Cody?",
+      "category":"Star Wars",
+      "answer":"Temuera Morrison",
+      "choices":[
+         "Cliff Curtis",
+         "Ian McDiarmid",
+         "Temuera Morrison",
+         "Diego Luna"
+      ]
+   },
+   {
+      "question":"Who killed Jabba?",
+      "category":"Star Wars",
+      "answer":"Princess Leia",
+      "choices":[
+         "Lando Calrissian",
+         "Luke Skywalker",
+         "Princess Leia",
+         "Han Solo"
+      ]
+   },
+   {
+      "question":"What did Luke Skywalker lose in his fight with Darth Vader?",
+      "category":"Star Wars",
+      "answer":"His right hand",
+      "choices":[
+         "A arm",
+         "His ligth saber",
+         "His right hand",
+         "His Father"
+      ]
+   },
+   {
+      "question":"What did Jar Jar Binks end up owing Qui-Gon Jinn after being rescued during the invasion of Naboo?",
+      "category":"Star Wars",
+      "answer":"An honor debt",
+      "choices":[
+         "His life",
+         "A ship",
+         "10 in credits",
+         "An honor debt"
+      ]
+   },
+   {
+      "question":"What did Owen Lars tell Luke about his father?",
+      "category":"Star Wars",
+      "answer":"He was a navigator on a spice freighter.",
+      "choices":[
+         "A pilot on the republic army",
+         "He was killed by Darth Vader",         
+         "He was a navigator on a spice freighter."
+      ]
+   },
+   {
+      "question":"What is the color of C-3PO's arm in Star Wars: The Force Awakens?",
+      "category":"Star Wars",
+      "answer":"Red",
+      "choices":[
+         "Silver",
+         "Gold",
+         "Red",
+         "White"
+      ]
+   },
+   {
+      "question":"This city is the only one located on two continents.",
+      "category":"Star Wars",
+      "answer":"Geonosis",
+      "choices":[
+         "Batuu",
+         "Geonosis",
+         "Jakku",
+         "Naboo"
+      ]
+   },
+   {
+      "question":"Who adopted Padmé Amidala's daughter?",
+      "category":"Star Wars",
+      "answer":"Bail Organa",
+      "choices":[
+         "Bail Organa",
+         "Beru Lars",
+         "Hera Syndula",
+         "Breha Organa"
+      ]
+   },
+   {
+      "question":"What was the job that Finn told Han Solo he had at Starkiller Base?",
+      "category":"Star Wars",
+      "answer":"Sanitation",
+      "choices":[
+         "Guard",
+         "Solider",
+         "Sanitation",
+         "Security"
+      ]
+   },
+   {
+      "question":"Where were the Hoth sequences filmed?",
+      "category":"Star Wars",
+      "answer":"Norway",
+      "choices":[
+         "IceLand",
+         "Alaska",
+         "Switzerland",
+         "Norway"
+      ]
+   },
+   {
+      "question":"What name does Obi-Wan Kenobi go by on Tatooine?",
+      "category":"Star Wars",
+      "answer":"Ben",
+      "choices":[
+         "Kenobi",
+         "Obi-Wan",
+         "Ben Kenobi",
+         "Ben"
+      ]
+   },
+   {
+      "question":"How old was Anakin during the battle on Geonosis?",
+      "category":"Star Wars",
+      "answer":"20",
+      "choices":[
+         "30",
+         "33",
+         "25",
+         "20"
+      ]
+   },
+   {
+      "question":"Who freed Princess Leia from her chains at Jabba's palace?",
+      "category":"Star Wars",
+      "answer":"R2-D2",
+      "choices":[
+         "C-3PO",
+         "Luke Skywalker",
+         "R2-D2",
+         "Han Solo"
+      ]
+   },
+   {
+      "question":"How did Luke manage to get into Jabba's palace?",
+      "category":"Star Wars",
+      "answer":"He used an ancient Jedi mind trick on Bib Fortuna.",
+      "choices":[
+         "He used an ancient Jedi mind trick on Bib Fortuna.",
+         "He kills everyone until he gets into the palace",
+		 "He used a disguise",
+		 "He used the force"
+      ]
+   },
+   {
+      "question":"Who first and most famously played the part of Chewbacca?",
+      "category":"Star Wars",
+      "answer":"Peter Mayhew",
+      "choices":[
+         "Joonas Suotamo",
+         "Peter Mayhew",
+         "Nick Pritchard"         
+      ]
+   },
+   {
+      "question":"Who fixed the hyperdrive on the Millennium Falcon?",
+      "category":"Star Wars",
+      "answer":"R2-D2",
+      "choices":[
+         "R2-D2",
+         "Han Solo",
+         "Pricess Leia",
+         "Chewbacca"
+      ]
+   },
+   {
+      "question":"Who killed Jango Fett was Mace Windu.",
+      "category":"Star Wars",
+      "answer":"True",
+      "choices":[
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question":"What species was Yoda?",
+      "category":"Star Wars",
+      "answer":"Unknown",
+      "choices":[
+         "Twi'lek",
+         "Rodian",
+         "Neimoidian",
+         "Unknown"
+      ]
+   },
+   {
+      "question":"Who are the comedians behind the voice for BB-8?",
+      "category":"Star Wars",
+      "answer":"Ben Schwartz and Bill Hader",
+      "choices":[
+         "Ben Schwartz",         
+         "Bill Hader",
+         "Ben Schwartz and Bill Hader"
+      ]
+   },
+   {
+      "question":"When Obi-Wan performed the blood test on Anakin, how high was the Midi-chlorian count?",
+      "category":"Star Wars",
+      "answer":"More than 20,000",
+      "choices":[
+         "20,000",
+         "30,000",
+         "More than 50,000",
+         "More than 20,000"
+      ]
+   },
+   {
+      "question":"According to the Emperor, what was Luke's weakness?",
+      "category":"Star Wars",
+      "answer":"His faith in his friends",
+      "choices":[
+         "His ability with the ligth saber",
+         "The love for his father",
+         "His anger",
+         "His faith in his friends"
+      ]
+   },
+   {
+      "question":"Which bounty hunter was trying to capture Han when Greedo arrived first?",
+      "category":"Star Wars",
+      "answer":"Danz Borin",
+      "choices":[
+         "Boba Fett",
+         "Bossk",
+         "Danz Borin",
+         "Jango Fett"
+      ]
+   },
+   {
+      "question":"Who taught Lando Calrissian how to pilot a ship?",
+      "category":"Star Wars",
+      "answer":"Han Solo",
+      "choices":[
+         "Han Solo",
+         "His Father",
+         "Luke Skywalker",
+         "Hera Syndulla"
+      ]
+   },
+   {
+      "question":"How many lightsabers does General Grievous wield in his fight with Obi-Wan on Utapau?",
+      "category":"Star Wars",
+      "answer":"Four",
+      "choices":[
+         "Five",
+         "Two",
+         "Six",
+         "Four"
+      ]
+   }
+]
